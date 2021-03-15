@@ -1,0 +1,10 @@
+C:\Users\yanko\source\repos\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csprojAssemblyReference.cache
+C:\Users\yanko\source\repos\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Form1.resources
+C:\Users\yanko\source\repos\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Properties.Resources.resources
+C:\Users\yanko\source\repos\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.GenerateResource.cache
+C:\Users\yanko\source\repos\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.CoreCompileInputs.cache
+C:\Users\yanko\source\repos\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe.config
+C:\Users\yanko\source\repos\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe
+C:\Users\yanko\source\repos\LibraryProject\LibraryProject\bin\Debug\LibraryProject.pdb
+C:\Users\yanko\source\repos\LibraryProject\LibraryProject\obj\Debug\LibraryProject.exe
+C:\Users\yanko\source\repos\LibraryProject\LibraryProject\obj\Debug\LibraryProject.pdb
